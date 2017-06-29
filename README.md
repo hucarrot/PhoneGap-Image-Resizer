@@ -10,9 +10,9 @@ The plugin conforms to the Cordova plugin specification, it can be installed
 using the Cordova / Phonegap command line interface.
 
 ```
-phonegap plugin add https://github.com/RaananW/PhoneGap-Image-Resizer
+phonegap plugin add https://github.com/hucarrot/PhoneGap-Image-Resizer
 
-cordova plugin add https://github.com/RaananW/PhoneGap-Image-Resizer
+cordova plugin add https://github.com/hucarrot/PhoneGap-Image-Resizer
 ```
 
 ## Using the plugin ##
